@@ -1,0 +1,41 @@
+4
+Greatest Hits
+Neil Diamond
+1
+3
+Crackling Rose
+sounds/01-Cracklin-Rose.wav
+Soolaimon
+sounds/01-Soolaimon.wav
+Sweet Caroline
+sounds/01-Sweet-Caroline.wav
+One More Light
+Linkin Park
+2
+3
+Ten More Minutes
+sounds/02-tenmoreminutes.wav
+The Lazy Song
+sounds/02-Don't-Hold-Me-Down.wav
+Burn It Down
+sounds/02-Burn It Down.wav
+NCS Rock
+Mendum
+3
+3
+DISTODD
+sounds/03-DISTODD.wav
+Bass-Drop
+sounds/03-Bass-Drop.wav
+Say The Words
+sounds/03-Say The Words.wav
+Freedom
+NCS Beats Pop
+4
+3
+Fly-Again
+sounds/04-Fly-Again.wav
+Voyage
+sounds/04-Voyage.wav
+Higher
+sounds/04-Higher.wav
